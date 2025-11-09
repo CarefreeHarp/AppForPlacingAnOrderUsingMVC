@@ -1,7 +1,7 @@
 # Despliegue en local
 
 ## Requisitos
-- Tener **pnpm** instalado en tu sistema.
+- Tener **pnpm** instalado en el equipo.
 
 ## Comandos para ejecutar el proyecto
 1. Instalar las dependencias:
