@@ -9,4 +9,5 @@
    pnpm install
 
 2. Desplegar en local
+   ```bash 
    pnpm dev
