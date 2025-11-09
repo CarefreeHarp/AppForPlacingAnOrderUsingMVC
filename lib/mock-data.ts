@@ -1,4 +1,26 @@
-import type { Restaurant, MenuItem } from "./app-context"
+import type { Restaurant, MenuItem, User } from "./app-context"
+
+export const mockUsers: User[] = [
+  {
+    id: "user_1",
+    name: "Cliente Demo",
+    email: "customer@example.com",
+    role: "customer",
+  },
+  {
+    id: "user_2",
+    name: "Andrés (Restaurante)",
+    email: "restaurant@example.com",
+    role: "restaurant",
+    restaurantId: "rest_1",
+  },
+  {
+    id: "user_3",
+    name: "Administrador",
+    email: "admin@example.com",
+    role: "admin",
+  },
+]
 
 export const mockRestaurants: Restaurant[] = [
   {
