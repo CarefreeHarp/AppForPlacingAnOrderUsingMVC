@@ -153,7 +153,7 @@ export const mockMenuItems: MenuItem[] = [
     category: "Pollos",
     rating: 4.7,
     restaurantId: "rest_3",
-    image: "/chicken-tacos.png",
+    image: "/alitasbbq.png",
   },
   // Frisby
   {
@@ -164,7 +164,7 @@ export const mockMenuItems: MenuItem[] = [
     category: "Combos",
     rating: 4.6,
     restaurantId: "rest_4",
-    image: "/burger-restaurant.png",
+    image: "/combofamilia.jpeg",
   },
   // Carrefour Food Court
   {
@@ -175,7 +175,7 @@ export const mockMenuItems: MenuItem[] = [
     category: "Arepas",
     rating: 4.5,
     restaurantId: "rest_5",
-    image: "/pizza-place.png",
+    image: "/arepa-con-queso.png",
   },
   // Justo & Bueno
   {
@@ -186,6 +186,6 @@ export const mockMenuItems: MenuItem[] = [
     category: "Comida Colombiana",
     rating: 4.4,
     restaurantId: "rest_6",
-    image: "/taco-stand.png",
+    image: "/bandejita.jpeg",
   },
 ]
